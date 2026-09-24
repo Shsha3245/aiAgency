@@ -1,0 +1,9 @@
+Malzeme,Tedarikci,URL,CSS Secici,Aktif,Kalite Puani,Teslimat Gunu,Para Birimi
+Stoneware Camur,Hanterra,https://hanterra.com/,span.price,True,0,0,TRY
+Stoneware Camur,Izoref,https://www.izoref.com/,span[itemprop='price'],True,0,0,TRY
+Stoneware Camur,Hobi Seramik,https://hobiseramik.com/,,False,0,0,TRY
+Yuksek Derece Toz-Sivi Sir,Refsan,https://www.refsan.com.tr/,,False,0,0,TRY
+Mayco Stoneware Sir,Ceramic Art Store,https://www.ceramicartstore.com/,,False,0,0,TRY
+Sir Hammaddeleri ve Recete,Clay.tr,https://www.clay.tr/,,False,0,0,TRY
+Yuksek Derece Toz-Sivi Sir,Serant Seramik,https://serant.eu/tr,,False,0,0,TRY
+Mayco Stoneware Sir,Duygu Seramik,https://duyguseramikboya.com/,,False,0,0,TRY

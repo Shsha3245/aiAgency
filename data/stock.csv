@@ -1,0 +1,5 @@
+SKU,Urun,Kategori,Adet,Minimum Seviye,Kritik Seviye,Kayip/Hatali,Birim Maliyet
+H001,Camur,Hammadde,200,100,50,5,42.5
+Y001,Latte Bardak,Yari Mamul,30,20,10,0,85
+S001,Espresso Bardak,Satisa Hazir,50,20,10,2,120
+K001,Mat Sir,Hammadde,8,20,10,0,260

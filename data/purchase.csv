@@ -1,0 +1,4 @@
+Malzeme,Tedarikci,Miktar,Birim Fiyat,Tutar,Teslimat Gunu,Durum
+Camur,A Tedarik,100,42.5,4250,5,Teslim Edildi
+Mat Sir,B Tedarik,20,260,5200,12,Beklemede
+Pigment,C Tedarik,10,180,1800,7,Siparis Verildi
