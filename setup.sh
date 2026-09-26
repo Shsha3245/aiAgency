@@ -3,6 +3,8 @@
 # Hata durumunda çalışmayı durdur
 set -e
 
+export PATH="/opt/homebrew/bin:/usr/local/bin:$PATH"
+
 echo "=================================================="
 echo "   Elaia Ceramics / aiAgency macOS Kurulumu      "
 echo "=================================================="
